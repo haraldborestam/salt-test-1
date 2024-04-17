@@ -1,0 +1,8 @@
+Branch för att lära sig om branches. 
+
+Uppgift: 
+1: Ändra fil i main.
+2: Dra in ändringar från main till ny branch. 
+3: Lägg till filer i ny branch.
+4: Ändra i befintlig fil i ny branch.
+5: Merge:a till main
