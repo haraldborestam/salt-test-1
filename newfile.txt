@@ -2,4 +2,8 @@ hello ;=D
 
 More text goes here. 
 
+<<<<<< main
+Even more text here // from main. 
+======
 Lite text //From new branch
+>>>>>> side-quest_add-images
